@@ -2,6 +2,15 @@
 
 An AI-enhanced search platform for freelance architects in Israel. This application transforms a database of 2,000+ Israeli companies into a sophisticated AI-powered search and matching system.
 
+## 🌐 Live Demo
+
+**Try it now:** [https://davebruzil.github.io/smart-search-for-architects-company-/](https://davebruzil.github.io/smart-search-for-architects-company-/)
+
+> **Note:** For AI features to work, you'll need to add your OpenAI API key in the browser console:
+> ```javascript
+> window.CONFIG = { OPENAI_API_KEY: 'your-api-key-here' };
+> ```
+
 ## 🚀 Features
 
 - **AI-Powered Speech Search**: Advanced speech recognition with OpenAI integration
