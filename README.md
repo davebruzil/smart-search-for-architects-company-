@@ -4,12 +4,9 @@ An AI-enhanced search platform for freelance architects in Israel. This applicat
 
 ## 🌐 Live Demo
 
-**Try it now:** [https://davebruzil.github.io/smart-search-for-architects-company-/](https://davebruzil.github.io/smart-search-for-architects-company-/)
+**Try it now:** Coming soon on Netlify!
 
-> **Note:** For AI features to work, you'll need to add your OpenAI API key in the browser console:
-> ```javascript
-> window.CONFIG = { OPENAI_API_KEY: 'your-api-key-here' };
-> ```
+> **Note:** The basic search works immediately. For AI features, users can add their OpenAI API key in the browser console or configure it locally.
 
 ## 🚀 Features
 
